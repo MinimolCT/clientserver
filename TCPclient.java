@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class TCPClient {
+class TCPclient {
  public static void main(String argv[]) throws Exception {
   String sentence;
   String modifiedSentence;
